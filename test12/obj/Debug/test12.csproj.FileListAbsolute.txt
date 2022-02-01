@@ -1,0 +1,12 @@
+C:\Users\박준규\source\repos\test12\test12\bin\Debug\test12.exe.config
+C:\Users\박준규\source\repos\test12\test12\bin\Debug\test12.exe
+C:\Users\박준규\source\repos\test12\test12\bin\Debug\test12.pdb
+C:\Users\박준규\source\repos\test12\test12\bin\Debug\WebDriver.dll
+C:\Users\박준규\source\repos\test12\test12\bin\Debug\WebDriver.Support.dll
+C:\Users\박준규\source\repos\test12\test12\obj\Debug\test12.csproj.AssemblyReference.cache
+C:\Users\박준규\source\repos\test12\test12\obj\Debug\test12.Form1.resources
+C:\Users\박준규\source\repos\test12\test12\obj\Debug\test12.Properties.Resources.resources
+C:\Users\박준규\source\repos\test12\test12\obj\Debug\test12.csproj.GenerateResource.cache
+C:\Users\박준규\source\repos\test12\test12\obj\Debug\test12.csproj.CoreCompileInputs.cache
+C:\Users\박준규\source\repos\test12\test12\obj\Debug\test12.exe
+C:\Users\박준규\source\repos\test12\test12\obj\Debug\test12.pdb
